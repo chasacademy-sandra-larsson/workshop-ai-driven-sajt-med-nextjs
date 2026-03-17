@@ -2,12 +2,6 @@
 
 Bygg en AI-driven webbapp där spelaren ska avgöra om ett påstående är sant eller påhittat. AI:n (Google Gemini) genererar påståendena!
 
-## Mappstruktur
-
-```
-starter/    <-- Workshopens startprojekt (detta delar ni ut)
-solution/   <-- Komplett lösning (för läraren)
-```
 
 ## Förarbete (innan workshopen)
 
