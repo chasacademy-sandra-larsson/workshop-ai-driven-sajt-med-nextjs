@@ -3,7 +3,7 @@
 Bygg en AI-driven webbapp där spelaren ska avgöra om ett påstående är sant eller påhittat. AI:n (Google Gemini) genererar påståendena!
 
 
-## Förarbete (innan workshopen)
+## Kom igång
 
 1. **Skaffa API-nyckel:** Gå till [Google AI Studio](https://aistudio.google.com/app/apikey), logga in med ett Google-konto och klicka "Create API Key"
 
