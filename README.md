@@ -1,4 +1,4 @@
-# Workshop: Fakta eller påhitt? - Next.js + Gemini API
+# Workshop: Fakta eller påhitt? 🤯
 
 Bygg en AI-driven webbapp där spelaren ska avgöra om ett påstående är sant eller påhittat. AI:n (Google Gemini) genererar påståendena!
 
